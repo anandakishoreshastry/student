@@ -1,4 +1,4 @@
-public class StudentDetails { 
+public class Student { 
     public static void main(String[] args) { 
         String name = "Name"; 
         String rollNo = "24512274800"; 
